@@ -1,4 +1,4 @@
 <p align="center">
-<p>Self-improvement is key</p>
-<img align="right" src="https://giphy.com/stickers/Biznek-type-typing-gopnik-Bl3X9QGrdfiRTH7bVy">
+<h1>Self-improvement is key</h1>
+<img align="right" src="https://giphy.com/stickers/laptop-desk-work-blue-light-cut-lens-DGhIzHFBk69Mf4Hrgp">
 </p>
